@@ -9,10 +9,8 @@
     background-color: rgb(150, 49, 66);
 }
 
-.h1 {
-    font-size: 32px;
-    color: #3f3f3f;
-}
+
+h1 { font-size: 32px; color: #3f3f3f;}
 
 .h2 {
     font-size: 24px;
