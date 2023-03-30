@@ -1,19 +1,11 @@
-*  { 
-    margin: 0;
-    padding: 0
-    box-sizing: border-box;
+body {
+  color: #3f3f3f;
 }
 
-.container {
-    height: 100px;
-    background-color: rgb(150, 49, 66);
+.h1 {
+  font-size: 32px;
 }
-
-
-h1 { font-size: 32px; color: #3f3f3f;}
 
 .h2 {
-    font-size: 24px;
-    color:#3f3f3f
+  font-size: 24px;
 }
-body { color: #3f3f3f;}
